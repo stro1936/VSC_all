@@ -1,1 +1,1 @@
-This class at UPC focused on the application of VSC to solar PV and type 4 wind turbine cases. 
+This class at UPC focused on the application of VSC to solar PV and type 4 wind turbine cases. Assignment 2 is PV, Assignment 3 is the wind turbine (in the PMSG_B2B models), and assignment 1 was the basic control tenets of VSC.
