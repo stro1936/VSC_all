@@ -1,1 +1,1 @@
-The AMCPS class focused on the difference between GFMI and GFLI and their interactions with the grid in different SCR and inertia conditions. 
+The AMCPS class focused on the difference between GFMI and GFLI and their interactions with the grid in different SCR and inertia conditions. The relevant models as well as the final report describing the experiments and findings are in the zip. 
